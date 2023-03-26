@@ -1,0 +1,19 @@
+#email,
+#password{
+    background: #121010;
+border: 1px solid #7F73E3;
+box-shadow: 15px 20px 45px rgba(0, 0, 0, 0.55);
+border-radius: 10px;
+color: aliceblue;
+}
+#btn{
+    background: linear-gradient(91.34deg, #3D3486 8.26%, #7F73E3 92.45%);
+border-radius: 28.5px;
+}
+#auth_text{
+font-style: italic;
+font-weight: 700;
+font-size: 48px;
+line-height: 120%;
+color: #7F73E3;
+}
